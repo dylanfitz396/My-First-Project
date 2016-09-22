@@ -1,0 +1,54 @@
+C:\Users\110309349\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\110309349\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\110309349\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\110309349\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\110309349\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmTutorialTwo.resources
+C:\Users\110309349\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\110309349\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\110309349\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\110309349\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\110309349\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\110309349\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\IS1102\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\IS1102\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\IS1102\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\IS1102\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\IS1102\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\IS1102\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\IS1102\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\IS1102\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmTutorialTwo.resources
+E:\IS1102\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\IS1102\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\IS1102\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\110309349.BIS\Desktop\IS1102\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\110309349.BIS\Desktop\IS1102\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\110309349.BIS\Desktop\IS1102\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\110309349.BIS\Desktop\IS1102\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\110309349.BIS\Desktop\IS1102\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\110309349.BIS\Desktop\IS1102\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\110309349.BIS\Desktop\IS1102\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\110309349.BIS\Desktop\IS1102\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmTutorialTwo.resources
+C:\Users\110309349.BIS\Desktop\IS1102\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\110309349.BIS\Desktop\IS1102\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\110309349.BIS\Desktop\IS1102\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\IS1102\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+H:\IS1102\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+H:\IS1102\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Dylan Fitzgerald\Documents\BIS\Principles of Programming\Visual Basics Projects\Calculator1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Dylan Fitzgerald\Documents\BIS\Principles of Programming\Visual Basics Projects\Calculator1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Dylan Fitzgerald\Documents\BIS\Principles of Programming\Visual Basics Projects\Calculator1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Dylan Fitzgerald\Documents\BIS\Principles of Programming\Visual Basics Projects\Calculator1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Dylan Fitzgerald\Documents\BIS\Principles of Programming\Visual Basics Projects\Calculator1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Dylan Fitzgerald\Documents\BIS\Principles of Programming\Visual Basics Projects\Calculator1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Dylan Fitzgerald\Documents\BIS\Principles of Programming\Visual Basics Projects\Calculator1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmTutorialTwo.resources
+C:\Users\Dylan Fitzgerald\Documents\BIS\Principles of Programming\Visual Basics Projects\Calculator1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Dylan Fitzgerald\Documents\BIS\Principles of Programming\Visual Basics Projects\Calculator1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Dylan Fitzgerald\Documents\BIS\First Year\Principles of Programming\Visual Basics Projects\Calculator1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Dylan Fitzgerald\Documents\BIS\First Year\Principles of Programming\Visual Basics Projects\Calculator1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Dylan Fitzgerald\Documents\BIS\First Year\Principles of Programming\Visual Basics Projects\Calculator1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Dylan Fitzgerald\Documents\BIS\First Year\Principles of Programming\Visual Basics Projects\Calculator1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Dylan Fitzgerald\Documents\BIS\First Year\Principles of Programming\Visual Basics Projects\Calculator1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Dylan Fitzgerald\Documents\BIS\First Year\Principles of Programming\Visual Basics Projects\Calculator1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Dylan Fitzgerald\Documents\BIS\First Year\Principles of Programming\Visual Basics Projects\Calculator1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmTutorialTwo.resources
+C:\Users\Dylan Fitzgerald\Documents\BIS\First Year\Principles of Programming\Visual Basics Projects\Calculator1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Dylan Fitzgerald\Documents\BIS\First Year\Principles of Programming\Visual Basics Projects\Calculator1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
